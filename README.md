@@ -1,3 +1,10 @@
+🎉 redis-shake v3 已经发布，欢迎在非生产环境试用。
+
+🎉 redis-shake v3 has been released, welcome to try it in non-production environments.
+
+🔗: https://github.com/alibaba/RedisShake/tree/v3
+
+---
 RedisShake is mainly used to synchronize data from one redis to another.<br>
 Thanks to the Douyu's WSD team for the support. <br>
 
@@ -14,7 +21,7 @@ Redis-shake has made some improvements based on [redis-port](https://github.com/
 
 # Main Functions
 
-The type can be one of the followings:
+The type can be one of the following:
 
 * **decode**: Decode dumped payload to human readable format (hex-encoding).
 * **restore**: Restore RDB file to target redis.
